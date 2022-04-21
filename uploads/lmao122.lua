@@ -1,5 +1,4 @@
 local Test = {
-    Container = {}
     Settings = {
         Enabled = false;
     }
